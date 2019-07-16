@@ -19,7 +19,7 @@ numpy
 opencv-python
 sklearn
 h5py
-
+ 
 There are 6 columns in the train file. Let’s understand what each column represents:
 
 image_names: contains the name of the image
